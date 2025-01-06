@@ -1,0 +1,1 @@
+This example demonstrates a common type mismatch error in TypeScript where an array is passed to a function expecting a string.  The error message clearly indicates the type mismatch. The solution involves handling the array appropriately to avoid the error.
